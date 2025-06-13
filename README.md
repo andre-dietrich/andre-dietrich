@@ -1,5 +1,4 @@
-**Hi there! 👋 I'm André Dietrich** &#x20;
-**Researcher @ TU Bergakademie Freiberg**
+# Hi there! 👋 I'm André Dietrich &#x20; Researcher [@TU Bergakademie Freiberg](https://tu-freiberg.de/en)
 
 Driven by curiosity and committed to open knowledge, I explore the cutting edge of web development, decentralized architectures, and the future of learning technologies. From crafting interactive educational experiences to advancing peer-to-peer systems, my passion lies at the intersection of code, community, and collaboration.
 
