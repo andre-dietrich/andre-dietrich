@@ -5,7 +5,7 @@ Driven by curiosity and committed to open knowledge, I explore the cutting edge 
 
 ---
 
-## 🔭 Current Projects
+### 🔭 Current Projects
 
 * **LiaScript**
   An extensible, Markdown-powered framework that transforms static content into interactive slides, quizzes, simulations, and live coding examples—all running in your browser with no installation or compilation required. Supports collaborative classrooms via Nostr, WebTorrent, GunDB, and others.
@@ -18,7 +18,7 @@ Driven by curiosity and committed to open knowledge, I explore the cutting edge 
   🔗 [GitHub](https://github.com/edrys-labs) / 🔗 [Project](https://edrys-labs.github.io)
 ---
 
-## 💡 Research & Interests
+### 💡 Research & Interests
 
 * **Programming Languages & Paradigms**: Functional programming, type systems, concurrency models, and language design.
 * **Web Development**: Modern frameworks, PWAs, performance optimization, and accessibility.
@@ -27,7 +27,7 @@ Driven by curiosity and committed to open knowledge, I explore the cutting edge 
 
 ---
 
-## ❤️ Favourite Languages
+### ❤️ Favourite Languages
 
 * **Elm**: Delightfully safe, purely functional UIs with zero runtime exceptions.
 * **TypeScript**: Scalable, strongly-typed JavaScript for large codebases.
@@ -37,6 +37,6 @@ Driven by curiosity and committed to open knowledge, I explore the cutting edge 
 
 ---
 
-## 🌐 Open Source & OER Advocate
+### 🌐 Open Source & OER Advocate
 
 I believe in community-driven innovation: open source software and open educational resources make learning accessible and collaborative. All my projects are released under permissive licenses, and I contribute regularly to OER initiatives.
