@@ -10,16 +10,12 @@ Driven by curiosity and committed to open knowledge, I explore the cutting edge 
 * **LiaScript**
   An extensible, Markdown-powered framework that transforms static content into interactive slides, quizzes, simulations, and live coding examples—all running in your browser with no installation or compilation required. Supports collaborative classrooms via Nostr, WebTorrent, GunDB, and others.
 
-  🔗 [GitHub](https://github.com/LiaScript)
-
-  🔗 [Project](https://liascript.github.io)
+  🔗 [GitHub](https://github.com/LiaScript) / 🔗 [Project](https://liascript.github.io)
 
 * **edrys‑Lite**
   A browser-based, peer-to-peer remote lab platform that enables educators and learners to build, share, and run experiments on real hardware using web standards (WebRTC, CRDTs). Fully decentralized and OER‑friendly, with modular configurations that can be extended by the community.
   
-  🔗 [GitHub](https://github.com/edrys-labs)
-
-  🔗 [Project](https://edrys-labs.github.io)
+  🔗 [GitHub](https://github.com/edrys-labs) / 🔗 [Project](https://edrys-labs.github.io)
 ---
 
 ## 💡 Research & Interests
